@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 projects:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -34,3 +34,7 @@ latest_posts:
 I'm David Miller, a junior at the University of Wisconsin–Madison studying Economics, Data Science, and Japanese. I'm interested in urban economics, primarily transportation and housing. My current research investigates Madison's Capitol View Preservation height restriction and its effect on housing density.
 
 I'm actively looking for research and internship opportunities in economics and data science. Feel free to [email me](mailto:demiller5@wisc.edu).
+
+## Projects
+**[Madison's Invisible Ceiling](https://demiller365.github.io/madisons-invisible-ceiling/)**  
+RDD analysis of Capitol height restriction and housing density.
