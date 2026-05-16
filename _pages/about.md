@@ -31,9 +31,6 @@ latest_posts:
 ---
 <h3><b>Welcome to my website!</b></h3>
 
-I'm David Miller, a junior at the University of Wisconsin - Madison. I'm majoring in Economics (math emphasis), Data Science, and Japanese with certificates in Computer Science, Geospatial Data Science, and Mathematics.
+I'm David Miller, a junior at the University of Wisconsin–Madison studying Economics, Data Science, and Japanese. I'm interested in urban economics, primarily transportation and housing. My current research investigates Madison's Capitol View Preservation height restriction and its effect on housing density.
 
-I am interested in urban economics, primarily housing and transportation.
-Learn more in [Projects](https://demiller365.github.io/projects).
-
-Happy to connect — feel free to [email me](mailto: demiller5@wisc.edu)!
+I'm actively looking for research and internship opportunities in economics and data science. Feel free to [email me](mailto:demiller5@wisc.edu).
