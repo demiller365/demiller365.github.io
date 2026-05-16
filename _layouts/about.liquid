@@ -39,6 +39,14 @@ layout: default
     {% endif %}
 
     <div class="clearfix">{{ content }}</div>
+    
+    <!-- Projects -->
+    {% if page.projects and page.projects.enabled %}
+      <h2>
+        <a href="{{ '/projects/' | relative_url }}" style="color: inherit">projects</a>
+      </h2>
+      {% include projects.liquid limit=page.projects.limit %}
+    {% endif %}
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}

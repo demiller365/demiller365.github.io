@@ -7,12 +7,12 @@ subtitle: Economics major at the University of Wisconsin - Madison
 profile:
   align: right
   image: prof_pic.jpg
-  social_icons_contact: true # Custom: displays social icons under picture. Can edit icons in about.liquid
+  social_icons_contact: false # Custom: displays social icons under picture. Can edit icons in about.liquid
     
   image_circular: false # crops the image to make it circular
-  more_info:
-    <p>demiller5@wisc.edu</p>
-    <a href="/assets/pdf/cv.pdf">📄 CV</a> 
+  #more_info:
+  #  <p>demiller5@wisc.edu</p>
+  #  <a href="/assets/pdf/cv.pdf">📄 CV</a> 
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
