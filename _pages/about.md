@@ -5,7 +5,7 @@ permalink: /
 subtitle: Economics major at the University of Wisconsin - Madison
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   social_icons_contact: true # Custom: displays social icons under picture. Can edit icons in about.liquid
     
