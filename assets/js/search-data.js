@@ -10,8 +10,8 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+          title: "Projects",
+          description: "Projects I&#39;m proud of.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -43,7 +43,7 @@ ninja.data = [{
           title: 'Madison&amp;#39;s Invisible Ceiling',
           description: "RDD analysis of Capitol height restriction and housing density in Madison, WI",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/madisons-invisible-ceiling/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
