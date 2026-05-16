@@ -29,21 +29,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 
 ---
+<h3><b>Welcome to my website!</b></h3>
 
-
-<hr style="width: 120%; visibility: hidden;">
-
-<h3 style="margin-bottom: 1.3rem"><b>Welcome to my website!</b></h3>
-
-<div markdown="1">
 I'm David Miller, a junior at the University of Wisconsin - Madison. I'm majoring in Economics (math emphasis), Data Science, and Japanese with certificates in Computer Science, Geospatial Data Science, and Mathematics.
-</div>
 
-<div markdown="1" style="margin-top: 1.0rem;">
 I am interested in urban economics, primarily housing and transportation.
 Learn more in [Projects](https://demiller365.github.io/projects).
-</div>
 
-<div markdown="1" style="margin-top: 1.0rem;">
 Happy to connect — feel free to [email me](mailto: demiller5@wisc.edu)!
-</div>
