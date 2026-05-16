@@ -469,7 +469,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/cv.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -477,6 +477,20 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%64%65%6D%69%6C%6C%65%72%35@%77%69%73%63.%65%64%75", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/demiller365", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/demiller365", "_blank");
         },
       },{
         id: 'social-inspire',
