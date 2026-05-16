@@ -29,7 +29,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 
 ---
-<h3><b>Welcome to my website!</b></h3>
 
 I'm David Miller, a junior at the University of Wisconsin–Madison studying Economics, Data Science, and Japanese. I'm interested in urban economics, primarily transportation and housing. My current research investigates Madison's Capitol View Preservation height restriction and its effect on housing density.
 
