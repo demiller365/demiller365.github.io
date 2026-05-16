@@ -9,12 +9,12 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <a href="/assets/pdf/cv.pdf">CV</a> 
+    <a href="/assets/pdf/cv.pdf">📄 CV</a> 
     <p></p>
     <p></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -25,6 +25,10 @@ latest_posts:
   enabled: false
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+# Social links
+github_username: demiller365
+linkedin_username: demiller365
 ---
 
 I'm David Miller, a junior at the University of Wisconsin - Madison. I'm majoring in Economics (math emphasis), Data Science, and Japanese with certificates in Computer Science, Geospatial Data Science, and Mathematics.
