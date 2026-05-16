@@ -18,7 +18,7 @@ profile:
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-announcements:
+projects:
   enabled: true # includes a list of news items
   scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
@@ -36,7 +36,7 @@ latest_posts:
 <h3 style="margin-bottom: 1.3rem"><b>Welcome to my website!</b></h3>
 
 <div markdown="1">
-I'm David Miller, a junior at the [University of Wisconsin - Madison](https://www.wisc.edu/). I'm majoring in Economics (math emphasis), Data Science, and Japanese with certificates in Computer Science, Geospatial Data Science, and Mathematics.
+I'm David Miller, a junior at the University of Wisconsin - Madison. I'm majoring in Economics (math emphasis), Data Science, and Japanese with certificates in Computer Science, Geospatial Data Science, and Mathematics.
 </div>
 
 <div markdown="1" style="margin-top: 1.0rem;">
